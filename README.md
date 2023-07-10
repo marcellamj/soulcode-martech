@@ -14,3 +14,5 @@ Anotações de aula e exercícios:
    - Utilização do MySQL 8.0 no Google Cloud Platform
    
 3. Bibliotecas Python e ETL
+
+4. Case Airbnb - Projeto de Análise Exploratória
