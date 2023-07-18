@@ -27,7 +27,7 @@ Anotações de aula e prática:
 7. PySpark - Dados de Ecommerce by Olist
 
 8. BigQuery - GCP
-  - Criar Conjunto de dados, Tabela, Salvar Consultas (queries) e Visualizações
+     - Criar Conjunto de dados, Tabela, Salvar Consultas (queries) e Visualizações
 
    
 
