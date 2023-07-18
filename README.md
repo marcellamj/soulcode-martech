@@ -15,7 +15,7 @@ Anotações de aula e exercícios:
    
 3. Bibliotecas Python e ETL
 
-   - Análise base de dados CENIPA
+   - Análise da base de dados CENIPA
 
 5. Case Airbnb - Projeto de Análise Exploratória
 
