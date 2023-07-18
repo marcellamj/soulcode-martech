@@ -4,7 +4,7 @@
 
 **Bootcamp - Analista de Dados - Martech - AD2**
 
-Anotações de aula e exercícios:
+Anotações de aula e prática:
 
 1. Fundamentos de Python
    - Google Colab
@@ -17,12 +17,19 @@ Anotações de aula e exercícios:
 
    - Análise da base de dados CENIPA
 
-5. Case Airbnb - Projeto de Análise Exploratória
+4. Case Airbnb - Projeto de Análise Exploratória
 
-6. Python - Estruturas de Dados
+5. Python - Estruturas de Dados
 
-7. Fundamentos de PySpark
+   - Listas, Tuplas, Dicionários
+   - Estatística Descritiva (SciPy e NumPy)
 
-8. PySpark - Dados de Ecommerce by Olist
+6. Fundamentos de PySpark
+
+   - pyspark.sql.types, functions
+     
+7. PySpark - Dados de Ecommerce by Olist
+
+   
 
 
