@@ -15,4 +15,14 @@ Anotações de aula e exercícios:
    
 3. Bibliotecas Python e ETL
 
-4. Case Airbnb - Projeto de Análise Exploratória
+   - Análise base de dados CENIPA
+
+5. Case Airbnb - Projeto de Análise Exploratória
+
+6. Python - Estruturas de Dados
+
+7. Fundamentos de PySpark
+
+8. PySpark - Dados de Ecommerce by Olist
+
+
