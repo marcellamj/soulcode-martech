@@ -29,6 +29,9 @@ Anotações de aula e prática:
 8. BigQuery - GCP
      - Criar Conjunto de dados, Tabela, Salvar Consultas (queries) e Visualizações
 
+9. Projeto Final
+     - Grupo 7 - Trânsito
+
    
 
 
